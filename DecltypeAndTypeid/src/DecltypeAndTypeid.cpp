@@ -30,6 +30,6 @@ int main() {
 
 	decltype(str) name = "Bob";
 
-	cout << name << endl;
+	cout << name << "test" << endl;
 	return 0;
 }
